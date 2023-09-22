@@ -1,4 +1,4 @@
-import{F as Ne,h as E,C as De,f as be}from"./index.esm-70ba5320.js";import{_ as He,l as I,i as ze,m as q,n as fe}from"./index-b985e3a6.js";/**
+import{F as Ne,h as E,C as De,f as be}from"./index.esm-6076c51a.js";import{_ as He,l as I,i as ze,m as q,n as fe}from"./index-891619ec.js";/**
  * @license
  * Copyright 2017 Google LLC
  *
@@ -443,4 +443,4 @@ Content-Type: `+l.contentType+`\r
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */var cr="storage";function fr(t,e){var r=e.instanceIdentifier,n=t.getProvider("app").getImmediate(),a=t.getProvider("auth-internal"),o=new sr(n,new Q(n,a,new ut,r,be.SDK_VERSION));return o}function hr(t){var e={TaskState:g,TaskEvent:it,StringFormat:w,Storage:Q,Reference:N};t.INTERNAL.registerComponent(new De(cr,fr,"PUBLIC").setServiceProps(e).setMultipleInstances(!0)),t.registerVersion(ur,lr)}hr(be);
-//# sourceMappingURL=index.esm-ce48f91a.js.map
+//# sourceMappingURL=index.esm-4a132f15.js.map
