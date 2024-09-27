@@ -1,1 +1,1 @@
-# https://xialuohun.github.io/excalidraw/
+# https://xialuohun.top/excalidraw/
